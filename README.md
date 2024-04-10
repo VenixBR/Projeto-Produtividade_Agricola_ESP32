@@ -1,1 +1,2 @@
-# Projeto de Controle de Produtividade Agricola de Graos com ESP32
+# Projeto de Monitoramento de Produtividade Agricola para Colheitadeira com ESP32
+
