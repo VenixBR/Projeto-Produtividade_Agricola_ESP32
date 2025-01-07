@@ -13,7 +13,7 @@ A especificação do problema e detalhes do desenvolvimento estão presentes no 
 
 ## LINKS
 
-Simulação no Wokwi: https://wokwi.com/projects/405666335858195457
+Simulação no Wokwi: https://wokwi.com/projects/419373114502994945
 
 Relatório no Overleaf (Leitura): https://www.overleaf.com/read/hwmgsffbmttb#877c56
 
